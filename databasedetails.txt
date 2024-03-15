@@ -1,0 +1,22 @@
+Operator Details:-
+operator_id	name	address  		phone   	email
+1          	kamla	Kashmiri Gate Delhi	1234567890	kamlatravels@gmail.com
+2		Sutluz	Kashmiri Gate Delhi	2345678901	sutluzravels@gmail.com
+
+New Bus Details:-
+Bus_id	Bus_type	capacity	fare	oprid	routeid
+1	ac2x2		50		1000	1	1
+2	ac3x2		60		1500	2	1
+
+route details:-
+route_id	station_name	stn_id
+1		Guna		7
+1		Bhopal		2
+2		Kota		11
+2		Guna		7
+
+running details:-
+Bus_id	Running_date	seat_available
+1	23/12/2023	35
+2	24/12/2023	45
+3	24/12/2023	40
